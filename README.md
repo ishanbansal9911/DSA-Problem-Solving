@@ -1,8 +1,8 @@
-# DSA-Problem-Solving
-**About this repository**
+# DSA Problem Solving
+## **About this repository**
 
-Welcome to **DSA-Problem-Solving** — my personal repository for consistently practicing and strengthening my skills in **Data Structures and Algorithms (DSA)** with **C++**.  
-This project serves as a transparent, trackable record of my commitment to mastering problem-solving, building efficient algorithms, and growing as a technical professional.
+- Welcome to **DSA-Problem-Solving** — my personal repository for consistently practicing and strengthening my skills in **Data Structures and Algorithms (DSA)** with **C++**.  
+- This project serves as a transparent, trackable record of my commitment to mastering problem-solving, building efficient algorithms, and growing as a technical professional.
 
 ---
 
@@ -26,8 +26,8 @@ This project serves as a transparent, trackable record of my commitment to maste
 
 ## **Why this matters**
 
-Strong problem-solving skills are essential for anyone in technology — whether building robust software, tackling complex logic, or succeeding in technical interviews.  
-This repository shows my proactive approach to growing these skills through real, hands-on practice. By working through challenging problems and documenting solutions, I’m developing the mindset and technical ability needed to deliver high-quality, efficient solutions in any setting.
+- Strong problem-solving skills are essential for anyone in technology — whether building robust software, tackling complex logic, or succeeding in technical interviews.  
+- This repository shows my proactive approach to growing these skills through real, hands-on practice. By working through challenging problems and documenting solutions, I’m developing the mindset and technical ability needed to deliver high-quality, efficient solutions in any setting.
 
 ---
 

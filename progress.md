@@ -59,8 +59,8 @@ This file helps me keep track of what I’ve studied, the coding problems I’ve
 | 28 | 2025-07-19 | Loop     | Right Aligned Row Number Triangle         | [solution](./PatternProblems/right_aligned_row_number_triangle.cpp)         |
 | 29 | 2025-07-19 | Loop     | Right Aligned Triangle Star Pattern       | [solution](./PatternProblems/right_aligned_triangle_star_pattern.cpp)       |
 | 30 | 2025-07-19 | Loop     | Diamond Star Pattern                       | [solution](./PatternProblems/diamond_star_pattern.cpp)                       |
-| 32 | 2025-07-19 | Loop     | Hourglass Star Pattern                     | [solution](./PatternProblems/hourglass_star_pattern.cpp)                     |
-| 31 | 2025-07-19 | Loop     | Hollow Double Diamond Star Pattern         | [solution](./PatternProblems/hollow_double_diamond_star_pattern.cpp)         |
+| 31 | 2025-07-19 | Loop     | Hourglass Star Pattern                     | [solution](./PatternProblems/hourglass_star_pattern.cpp)                     |
+| 32 | 2025-07-19 | Loop     | Hollow Double Diamond Star Pattern         | [solution](./PatternProblems/hollow_double_diamond_star_pattern.cpp)         |
 | 33 | 2025-07-19 | Loop     | Inverted Pyramid Star Pattern              | [solution](./PatternProblems/inverted_pyramid_star_pattern.cpp)              |
 | 34 | 2025-07-19 | Loop     | Pyramid Number Palindrome Pattern          | [solution](./PatternProblems/pyramid_number_palindrome_pattern.cpp)          |
 | 35 | 2025-07-19 | Loop     | Pyramid Star Pattern                       | [solution](./PatternProblems/pyramid_star_pattern.cpp)                       |

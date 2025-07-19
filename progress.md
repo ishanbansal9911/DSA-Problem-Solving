@@ -11,7 +11,7 @@ This file helps me keep track of what I’ve studied, the coding problems I’ve
 
 ## 🏆 Total Problems Solved
 
-✨ Problems Solved So Far: **23** 🎉
+✨ Problems Solved So Far: **29** 🎉
 
 ---
 
@@ -52,4 +52,10 @@ This file helps me keep track of what I’ve studied, the coding problems I’ve
 | 21 | 2025-07-19 | Loop     | Left Aligned Triangle Star Pattern             | [solution](./PatternProblems/left_aligned_triangle_pattern.cpp)         |
 | 22 | 2025-07-19 | Loop     | Reversed Left Aligned Number Triangle          | [solution](./PatternProblems/reversed_left_aligned_number_triangle.cpp) |
 | 23 | 2025-07-19 | Loop     | Reversed Left Aligned Triangle Star Pattern    | [solution](./PatternProblems/reversed_left_aligned_triangle_star.cpp)   |
+| 24 | 2025-07-19 | Loop     | Right Aligned Ascending Alphabet Triangle | [solution](./PatternProblems/right_aligned_ascending_alphabet_triangle.cpp) |
+| 25 | 2025-07-19 | Loop     | Right Aligned Ascending Number Triangle   | [solution](./PatternProblems/right_aligned_ascending_number_triangle.cpp)   |
+| 26 | 2025-07-19 | Loop     | Right Aligned Descending Alphabet Triangle | [solution](./PatternProblems/right_aligned_descending_alphabet_triangle.cpp) |
+| 27 | 2025-07-19 | Loop     | Right Aligned Descending Number Triangle  | [solution](./PatternProblems/right_aligned_descending_number_triangle.cpp)  |
+| 28 | 2025-07-19 | Loop     | Right Aligned Row Number Triangle         | [solution](./PatternProblems/right_aligned_row_number_triangle.cpp)         |
+| 29 | 2025-07-19 | Loop     | Right Aligned Triangle Star Pattern       | [solution](./PatternProblems/right_aligned_triangle_star_pattern.cpp)       |
 

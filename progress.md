@@ -22,6 +22,7 @@ This file helps me keep track of what I’ve studied, the coding problems I’ve
 | 1  | 2025-07-17 | Loops    | Studied Loops   |
 | 2  | 2025-07-18 | Loops    | Solve Patterns Problems   |
 | 3  | 2025-07-19 | Loops    | Solve Patterns Problems   |
+| 4  | 2025-07-20 | Operators    | Study Operators in C++   |
 
 ---
 

@@ -24,6 +24,8 @@ This file helps me keep track of what I’ve studied, the coding problems I’ve
 | 3  | 2025-07-19 | Loops    | Solve Patterns Problems   |
 | 4  | 2025-07-20 | Operators    | Study Operators in C++   |
 | 5  | 2025-07-21 | Loops    | Study while and do-while loops,switch,break   |
+| 6  | 2025-07-22 | Loops    | Revise the previous lessons and practice loop questions   |
+
 
 ---
 
